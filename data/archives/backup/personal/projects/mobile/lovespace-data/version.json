@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "last_updated": "2026-01-01T22:21:26.483380",
+  "database_url": "https://raw.githubusercontent.com/crlsmggksjgls1345/hereya31/main/data/archives/backup/personal/projects/mobile/lovespace-data/database.db",
+  "database_size_bytes": 270336,
+  "compatibility": "1.1.0+3",
+  "changelog": "Exportación completa - 1 enero 2026 - Todas las tablas incluidas",
+  "tables": {
+    "notes": 36,
+    "audio_messages": 35,
+    "projects": 16,
+    "photos": 50,
+    "songs": 4,
+    "memories": 24,
+    "relationship_counter": 1,
+    "potions": 5,
+    "magic_messages": 60,
+    "gifts": 16,
+    "note_staging": 9,
+    "project_staging": 7,
+    "photo_staging": 0,
+    "song_staging": 1,
+    "audio_staging": 0,
+    "memory_staging": 0,
+    "central_animation_config": 3,
+    "led_message_config": 3
+  }
+}
